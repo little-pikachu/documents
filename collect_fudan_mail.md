@@ -5,4 +5,4 @@
 ## step1：登录QQ邮箱
 
 输入网址mail.qq.com，通过用户名和密码登录QQ邮箱。
-![登录QQ邮箱](/assets/ollect_fudan_mail/step-0.png)
+![登录QQ邮箱](/assets/collect_fudan_mail/step-0.png)
