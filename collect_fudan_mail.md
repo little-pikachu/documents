@@ -8,5 +8,11 @@
 
 <img src="https://github.com/little-pikachu/documents/blob/master/assets/collect_fudan_mail/step-0.png"  width="800" >
 
+## step2: 点击设置
+
+<img src="https://github.com/little-pikachu/documents/blob/master/assets/collect_fudan_mail/step-1.png"  width="800" >
 
 
+## step3: 点击其他邮箱
+
+<img src="https://github.com/little-pikachu/documents/blob/master/assets/collect_fudan_mail/step-2.png"  width="800" >
